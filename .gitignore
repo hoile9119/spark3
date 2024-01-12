@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+*__pycache__
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.zip
+
+# Jupyter Notebook specific files
+*.ipynb_checkpoints/
+*.ipynb
+*.nbconvert.ipynb
+*.nbmetadata.json
+
+# VSCode specific files and folders
+.vscode/
+.settings/
+*.code-workspace
+*.vsix
